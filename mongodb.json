@@ -1,0 +1,298 @@
+{
+    "careers": [
+        {
+            "id": "career_001",
+            "logo": "https://example.com/logo.png",
+            "title": "Frontend Developer",
+            "company": "Google",
+            "location": "Remote",
+            "participants": 1200,
+            "date": "2026-04-01",
+            "tags": [
+                "React",
+                "JavaScript"
+            ],
+            "description": "Frontend role focusing on UI development",
+            "applyLink": "https://example.com/apply",
+            "createdAt": "2026-04-01T10:00:00Z",
+            "updatedAt": "2026-04-01T10:00:00Z",
+            "authorEmail": "admin@byamn.in"
+        }
+    ],
+    "courses": [
+        {
+            "id": "course_001",
+            "image": "https://example.com/course.png",
+            "title": "Full Stack Development",
+            "badge": "Best Seller",
+            "rating": 4.7,
+            "newPrice": 499,
+            "oldPrice": 1999,
+            "users": 15000,
+            "description": "Learn MERN stack",
+            "applyLink": "https://example.com/course",
+            "platform": "Udemy",
+            "createdAt": "2026-04-01T10:00:00Z",
+            "updatedAt": "2026-04-01T10:00:00Z",
+            "authorEmail": "admin@byamn.in",
+            "clicks": 200,
+            "sessionToken": "abc123",
+            "curriculum": [
+                "HTML",
+                "CSS",
+                "JS"
+            ],
+            "shortId": "fsd01",
+            "shortUrl": "https://byamn.in/fsd01"
+        }
+    ],
+    "featured": [
+        {
+            "id": "feat_001",
+            "image": "https://example.com/featured.png",
+            "title": "Hackathon 2026",
+            "company": "Microsoft",
+            "regCount": 5000,
+            "daysLeft": 10,
+            "badge1": "Trending",
+            "badge2": "Hot",
+            "description": "Join global hackathon",
+            "link": "https://example.com",
+            "platform": "Devfolio",
+            "createdAt": "2026-04-01T10:00:00Z",
+            "updatedAt": "2026-04-01T10:00:00Z",
+            "authorEmail": "admin@byamn.in"
+        }
+    ],
+    "hackathons": [
+        {
+            "id": "hack_001",
+            "image": "https://example.com/hack.png",
+            "title": "AI Hackathon",
+            "subtitle": "Build AI solutions",
+            "prize": "₹1,00,000",
+            "date": "2026-05-01",
+            "location": "Online",
+            "participants": 3000,
+            "tag1": "AI",
+            "tag2": "ML",
+            "description": "AI based competition",
+            "applyLink": "https://example.com",
+            "prizes": [
+                "₹50k",
+                "₹30k"
+            ],
+            "rounds": [
+                "Idea",
+                "Final"
+            ],
+            "platform": "Unstop",
+            "createdAt": "2026-04-01T10:00:00Z",
+            "updatedAt": "2026-04-01T10:00:00Z"
+        }
+    ],
+    "internships": [
+        {
+            "id": "intern_001",
+            "logo": "https://example.com/logo.png",
+            "title": "Backend Intern",
+            "company": "Amazon",
+            "location": "Bangalore",
+            "type": "Remote",
+            "participants": 800,
+            "date": "2026-04-15",
+            "description": "Work on APIs",
+            "applyLink": "https://example.com",
+            "platform": "LinkedIn",
+            "createdAt": "2026-04-01T10:00:00Z",
+            "updatedAt": "2026-04-01T10:00:00Z",
+            "authorEmail": "admin@byamn.in",
+            "responsibilities": [
+                "API Development"
+            ],
+            "perks": [
+                "Certificate"
+            ],
+            "sessionToken": "xyz123"
+        }
+    ],
+    "jobs": [
+        {
+            "id": "job_001",
+            "logo": "https://example.com/logo.png",
+            "title": "Software Engineer",
+            "company": "Meta",
+            "location": "Remote",
+            "participants": 2000,
+            "type": "Full-time",
+            "date": "2026-04-10",
+            "tags": [
+                "Node.js"
+            ],
+            "description": "Backend role",
+            "applyLink": "https://example.com",
+            "platform": "Careers Page",
+            "createdAt": "2026-04-01T10:00:00Z",
+            "updatedAt": "2026-04-01T10:00:00Z",
+            "authorEmail": "admin@byamn.in"
+        }
+    ],
+    "mentors": [
+        {
+            "id": "mentor_001",
+            "photo": "https://example.com/photo.png",
+            "name": "John Doe",
+            "title": "Senior Dev",
+            "company": "Google",
+            "expertise": [
+                "React"
+            ],
+            "rating": 4.9,
+            "bio": "Experienced mentor",
+            "experience": "5 years",
+            "sessions": 100,
+            "participants": 500,
+            "skills": [
+                "JS",
+                "React"
+            ],
+            "linkedin": "https://linkedin.com",
+            "twitter": "https://twitter.com",
+            "website": "https://example.com",
+            "availability": "Weekends",
+            "applyLink": "https://example.com",
+            "platform": "Topmate",
+            "createdAt": "2026-04-01T10:00:00Z",
+            "updatedAt": "2026-04-01T10:00:00Z",
+            "authorEmail": "admin@byamn.in"
+        }
+    ],
+    "notifications": [
+        {
+            "id": "notif_001",
+            "title": "New Hackathon",
+            "message": "AI Hackathon live now",
+            "link": "https://example.com",
+            "createdAt": "2026-04-01T10:00:00Z",
+            "updatedAt": "2026-04-01T10:00:00Z"
+        }
+    ],
+    "practice": [
+        {
+            "_id": "practice_001",
+            "image": "https://example.com/practice.png",
+            "title": "DSA Sheet",
+            "subtitle": "Top questions",
+            "difficulty": "Medium",
+            "totalQuestions": 100,
+            "date": "2026-04-01",
+            "price": "Free",
+            "description": "Practice DSA",
+            "links": [
+                {
+                    "name": "Practice Link 1",
+                    "url": "https://example.com"
+                }
+            ],
+            "authorEmail": "admin@byamn.in",
+            "shortId": "dsa01",
+            "clicks": 50,
+            "shortUrl": "https://byamn.in/dsa01",
+            "createdAt": "2026-04-01T10:00:00Z",
+            "updatedAt": "2026-04-01T10:00:00Z"
+        }
+    ],
+    "premium_resources": [
+        {
+            "id": "premium_001",
+            "image": "https://example.com/premium.png",
+            "title": "React Course",
+            "price": 999,
+            "buyLink": "https://example.com",
+            "couponCode": "SAVE50",
+            "redirectLink": "https://example.com",
+            "description": "Premium course",
+            "createdAt": "2026-04-01T10:00:00Z",
+            "updatedAt": "2026-04-01T10:00:00Z",
+            "icon": "🔥"
+        }
+    ],
+    "resources": [
+        {
+            "id": "res_001",
+            "icon": "📘",
+            "title": "JS Notes",
+            "category": "Programming",
+            "type": "PDF",
+            "downloads": "High Downloads",
+            "description": "JavaScript notes",
+            "author": "Aman",
+            "link": "https://example.com",
+            "tags": [
+                "JS"
+            ],
+            "platform": "BYAMN",
+            "createdAt": "2026-04-01T10:00:00Z",
+            "updatedAt": "2026-04-01T10:00:00Z",
+            "authorEmail": "admin@byamn.in",
+            "shortId": "js01",
+            "clicks": 0,
+            "shortUrl": "https://byamn.in/js01",
+            "createdAt": "2026-04-01T10:00:00Z",
+            "updatedAt": "2026-04-01T10:00:00Z"
+        }
+    ],
+    "scholarships": [
+        {
+            "id": "sch_001",
+            "logo": "https://example.com/logo.png",
+            "title": "Google Scholarship",
+            "company": "Google",
+            "participants": 10000,
+            "date": "2026-06-01",
+            "location": "Global",
+            "type": "Merit",
+            "description": "Scholarship program",
+            "applyLink": "https://example.com",
+            "platform": "Google",
+            "createdAt": "2026-04-01T10:00:00Z",
+            "updatedAt": "2026-04-01T10:00:00Z",
+            "authorEmail": "admin@byamn.in",
+            "perks": [
+                "Funding"
+            ],
+            "responsibilities": [
+                "Maintain GPA"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "id": "user_001",
+            "name": "Aman Singh",
+            "email": "aman@example.com",
+            "password": "hashed_password",
+            "username": "aman_dev",
+            "image": "https://example.com/profile.png",
+            "role": "admin",
+            "bio": "Founder of BYAMN",
+            "socialLinks": [
+                "https://linkedin.com"
+            ],
+            "title": "Developer",
+            "location": "India",
+            "leetcodeUsername": "amanlc",
+            "githubUsername": "amangit",
+            "coverURL": "https://example.com/cover.png",
+            "experience": "2 years",
+            "customLinks": [
+                "https://byamn.in"
+            ],
+            "followers": 100,
+            "following": 50,
+            "pendingRequests": 2,
+            "createdAt": "2026-04-01T10:00:00Z",
+            "updatedAt": "2026-04-01T10:00:00Z"
+        }
+    ]
+}
